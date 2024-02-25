@@ -4,7 +4,15 @@
 
 - [API Link](https://developers.google.com/books)
 
-## Subject:
+## Video
+
+
+
+https://github.com/fatihhcan/Favorite-Books-APP/assets/45641833/1fdc12fb-7a41-4626-8529-f6fe728217ca
+
+
+
+## Subject
 
 - **BLoC** was used for State Management.
 
@@ -16,7 +24,7 @@
 
 - **Sembast** package was used for the local database.
 
-## Flutter Packages Available in the Project:
+## Flutter Packages Available in the Project
 
 **flutter_screenutil:** A flutter plugin for adapting screen and font size.Guaranteed to look good on different models.
 
